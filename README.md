@@ -1,1 +1,1 @@
-# WActiGrad
+# The is the implementation of our paper Weight Activation and Gradient (WActiGrad)
